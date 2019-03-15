@@ -1,0 +1,4 @@
+Student Details:
+Student ID: u1710117
+Student Name: Bobur Zokirov
+Section Number: CSE 17-13
